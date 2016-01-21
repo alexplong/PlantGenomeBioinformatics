@@ -1,0 +1,367 @@
+LOCUS       NC_003070               3688 bp    DNA     linear   PLN 14-JUL-2014
+DEFINITION  Arabidopsis thaliana chromosome 1, complete sequence.
+ACCESSION   NC_003070 REGION: 1036537..1040224
+VERSION     NC_003070.9  GI:240254421
+DBLINK      BioProject: PRJNA116
+KEYWORDS    RefSeq.
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 3688)
+  AUTHORS   Theologis,A., Ecker,J.R., Palm,C.J., Federspiel,N.A., Kaul,S.,
+            White,O., Alonso,J., Altafi,H., Araujo,R., Bowman,C.L.,
+            Brooks,S.Y., Buehler,E., Chan,A., Chao,Q., Chen,H., Cheuk,R.F.,
+            Chin,C.W., Chung,M.K., Conn,L., Conway,A.B., Conway,A.R.,
+            Creasy,T.H., Dewar,K., Dunn,P., Etgu,P., Feldblyum,T.V., Feng,J.,
+            Fong,B., Fujii,C.Y., Gill,J.E., Goldsmith,A.D., Haas,B.,
+            Hansen,N.F., Hughes,B., Huizar,L., Hunter,J.L., Jenkins,J.,
+            Johnson-Hopson,C., Khan,S., Khaykin,E., Kim,C.J., Koo,H.L.,
+            Kremenetskaia,I., Kurtz,D.B., Kwan,A., Lam,B., Langin-Hooper,S.,
+            Lee,A., Lee,J.M., Lenz,C.A., Li,J.H., Li,Y., Lin,X., Liu,S.X.,
+            Liu,Z.A., Luros,J.S., Maiti,R., Marziali,A., Militscher,J.,
+            Miranda,M., Nguyen,M., Nierman,W.C., Osborne,B.I., Pai,G.,
+            Peterson,J., Pham,P.K., Rizzo,M., Rooney,T., Rowley,D., Sakano,H.,
+            Salzberg,S.L., Schwartz,J.R., Shinn,P., Southwick,A.M., Sun,H.,
+            Tallon,L.J., Tambunga,G., Toriumi,M.J., Town,C.D., Utterback,T.,
+            Van Aken,S., Vaysberg,M., Vysotskaia,V.S., Walker,M., Wu,D., Yu,G.,
+            Fraser,C.M., Venter,J.C. and Davis,R.W.
+  TITLE     Sequence and analysis of chromosome 1 of the plant Arabidopsis
+            thaliana
+  JOURNAL   Nature 408 (6814), 816-820 (2000)
+   PUBMED   11130712
+REFERENCE   2  (bases 1 to 3688)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2011) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 3688)
+  AUTHORS   Swarbreck,D., Lamesch,P., Wilks,C. and Huala,E.
+  CONSRTM   Arabidopsis TAIR10 Release
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2011) Department of Plant Biology, Carnegie
+            Institution, 260 Panama Street, Stanford, CA, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by TAIR. The
+            reference sequence is identical to CP002684.
+            On Jun 19, 2009 this sequence version replaced gi:238621221.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..3688
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:3702"
+                     /chromosome="1"
+                     /ecotype="Columbia"
+     gene            1..3688
+                     /gene="BARD1"
+                     /locus_tag="AT1G04020"
+                     /gene_synonym="ATBARD1; breast cancer associated RING 1;
+                     F21M11.4; F21M11_4; ROW1"
+                     /function="Encodes a protein containing two tandem BRCA1
+                     C-Terminal (BRCT) domains, which function in
+                     phosphorylation-dependent protein protein
+                     interactions.Loss of function mutations cause defects in
+                     meristem organization due to failure to repress WUS. BARD1
+                     binds to WUS promoter and over expression of BARD reduces
+                     the extent of WUS expression."
+                     /db_xref="GeneID:839329"
+                     /db_xref="TAIR:AT1G04020"
+     mRNA            join(1..156,261..314,408..482,557..905,995..1210,
+                     1388..1639,1740..1840,1983..2169,2265..2362,2459..2549,
+                     2688..2853,2952..3070,3159..3688)
+                     /gene="BARD1"
+                     /locus_tag="AT1G04020"
+                     /gene_synonym="ATBARD1; breast cancer associated RING 1;
+                     F21M11.4; F21M11_4; ROW1"
+                     /product="BRCT-associated RING-finger domain-containing
+                     protein"
+                     /inference="Similar to DNA sequence:INSD:BX814251.1"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:BX834587.1,INSD:DR256427.1,INSD:DR256392.1,
+                     INSD:DR256428.1,INSD:ES027100.1,INSD:DR261196.1,
+                     INSD:DR256385.1,INSD:ES072600.1,INSD:DR256437.1,
+                     INSD:DR256406.1,INSD:DR256423.1,INSD:DR256388.1,
+                     INSD:DR256417.1,INSD:DR383085.1,INSD:ES014933.1,
+                     INSD:DR256386.1,INSD:DR256411.1,INSD:DR256393.1,
+                     INSD:DR258179.1,INSD:DR256414.1,INSD:EL188049.1,
+                     INSD:DR256395.1"
+                     /transcript_id="NM_202029.2"
+                     /db_xref="GI:145362226"
+                     /db_xref="GeneID:839329"
+                     /db_xref="TAIR:AT1G04020"
+     mRNA            join(1..156,261..314,408..478,553..905,995..1210,
+                     1385..1639,1740..1840,1983..2169,2265..2362,2459..2549,
+                     2688..2853,2952..3070,3159..3688)
+                     /gene="BARD1"
+                     /locus_tag="AT1G04020"
+                     /gene_synonym="ATBARD1; breast cancer associated RING 1;
+                     F21M11.4; F21M11_4; ROW1"
+                     /product="BRCT-associated RING-finger domain-containing
+                     protein"
+                     /inference="Similar to DNA
+                     sequence:INSD:EU817407.1,INSD:BX815982.1,INSD:BX814251.1"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:DR258186.1,INSD:DR256412.1,INSD:DR256422.1,
+                     INSD:DR256426.1,INSD:DR258193.1,INSD:DR258184.1,
+                     INSD:DR256389.1,INSD:DR256417.1,INSD:DR256400.1,
+                     INSD:DR256424.1,INSD:DR256463.1,INSD:DR256394.1,
+                     INSD:DR256427.1,INSD:DR256460.1,INSD:DR258162.1,
+                     INSD:DR256392.1,INSD:DR256377.1,INSD:DR258174.1,
+                     INSD:DR256458.1,INSD:DR256402.1,INSD:DR258195.1,
+                     INSD:DR256432.1,INSD:DR258194.1,INSD:DR258197.1,
+                     INSD:DR256410.1,INSD:DR256464.1,INSD:DR256455.1,
+                     INSD:DR256378.1,INSD:DR256393.1,INSD:DR256420.1,
+                     INSD:DR258189.1,INSD:DR256425.1,INSD:DR258188.1,
+                     INSD:DR256403.1,INSD:DR256428.1,INSD:DR256439.1,
+                     INSD:DR256434.1,INSD:DR256385.1,INSD:DR258163.1,
+                     INSD:DR256435.1,INSD:DR256375.1,INSD:DR256449.1,
+                     INSD:DR258196.1,INSD:DR256418.1,INSD:DR256454.1,
+                     INSD:DR256404.1,INSD:DR256433.1,INSD:DR256408.1,
+                     INSD:DR256376.1,INSD:DR258153.1,INSD:DR258159.1,
+                     INSD:DR256469.1,INSD:DR256452.1,INSD:DR258150.1,
+                     INSD:DR256447.1,INSD:DR258171.1,INSD:DR256401.1,
+                     INSD:DR256397.1,INSD:DR256407.1,INSD:DR256409.1,
+                     INSD:DR258182.1,INSD:DR256411.1,INSD:DR256468.1,
+                     INSD:DR256438.1,INSD:DR258181.1,INSD:DR256467.1,
+                     INSD:DR256462.1,INSD:BX834587.1,INSD:DR256446.1,
+                     INSD:DR256459.1,INSD:DR256444.1,INSD:DR256374.1,
+                     INSD:DR256465.1,INSD:DR256396.1,INSD:DR256430.1,
+                     INSD:DR256457.1,INSD:DR258161.1,INSD:DR256431.1,
+                     INSD:DR258169.1,INSD:DR256466.1,INSD:DR258157.1,
+                     INSD:DR256416.1,INSD:DR256379.1,INSD:DR256383.1,
+                     INSD:DR258180.1,INSD:DR258164.1,INSD:DR258156.1,
+                     INSD:DR258172.1,INSD:DR258160.1,INSD:DR256461.1,
+                     INSD:DR256441.1,INSD:DR258191.1,INSD:DR256388.1,
+                     INSD:DR256453.1,INSD:DR256443.1,INSD:DR258167.1,
+                     INSD:DR258165.1,INSD:ES014933.1,INSD:DR256386.1,
+                     INSD:DR258192.1,INSD:DR258175.1,INSD:EL188049.1,
+                     INSD:DR256395.1,INSD:DR256399.1,INSD:DR258185.1,
+                     INSD:DR256390.1,INSD:ES027100.1,INSD:DR256405.1,
+                     INSD:DR258176.1,INSD:DR256451.1,INSD:DR258149.1,
+                     INSD:DR258183.1,INSD:DR256421.1,INSD:DR258158.1,
+                     INSD:DR258178.1,INSD:DR256436.1,INSD:DR258190.1,
+                     INSD:DR256413.1,INSD:DR256450.1,INSD:DR256429.1,
+                     INSD:DR258152.1,INSD:DR258166.1,INSD:DR256380.1,
+                     INSD:DR258173.1,INSD:DR258179.1,INSD:DR258154.1,
+                     INSD:DR256445.1,INSD:DR256415.1,INSD:DR256448.1,
+                     INSD:DR256391.1,INSD:DR256437.1,INSD:ES072600.1,
+                     INSD:DR258177.1,INSD:DR258151.1,INSD:DR256406.1,
+                     INSD:DR256384.1,INSD:DR256387.1,INSD:DR256440.1,
+                     INSD:DR383085.1,INSD:DR258168.1,INSD:DR256456.1,
+                     INSD:DR256419.1,INSD:DR256381.1,INSD:DR256442.1,
+                     INSD:DR256414.1,INSD:DR258187.1,INSD:DR258155.1"
+                     /transcript_id="NM_100283.3"
+                     /db_xref="GI:145335060"
+                     /db_xref="GeneID:839329"
+                     /db_xref="TAIR:AT1G04020"
+     CDS             join(74..156,261..314,408..482,557..905,995..1210,
+                     1388..1639,1740..1840,1983..2169,2265..2362,2459..2549,
+                     2688..2853,2952..3070,3159..3509)
+                     /gene="BARD1"
+                     /locus_tag="AT1G04020"
+                     /gene_synonym="ATBARD1; breast cancer associated RING 1;
+                     F21M11.4; F21M11_4; ROW1"
+                     /inference="Similar to DNA sequence:INSD:BX814251.1"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:BX834587.1,INSD:DR256427.1,INSD:DR256392.1,
+                     INSD:DR256428.1,INSD:ES027100.1,INSD:DR261196.1,
+                     INSD:DR256385.1,INSD:ES072600.1,INSD:DR256437.1,
+                     INSD:DR256406.1,INSD:DR256423.1,INSD:DR256388.1,
+                     INSD:DR256417.1,INSD:DR383085.1,INSD:ES014933.1,
+                     INSD:DR256386.1,INSD:DR256411.1,INSD:DR256393.1,
+                     INSD:DR258179.1,INSD:DR256414.1,INSD:EL188049.1,
+                     INSD:DR256395.1"
+                     /note="breast cancer associated RING 1 (BARD1); FUNCTIONS
+                     IN: transcription coactivator activity, DNA binding;
+                     INVOLVED IN: DNA repair, regulation of meristem structural
+                     organization, leaf development; LOCATED IN: intracellular;
+                     EXPRESSED IN: 21 plant structures; EXPRESSED DURING: 12
+                     growth stages; CONTAINS InterPro DOMAIN/s: Zinc finger,
+                     RING-type, conserved site (InterPro:IPR017907), Zinc
+                     finger, RING-type (InterPro:IPR001841), Zinc finger,
+                     PHD-type (InterPro:IPR001965), BRCT (InterPro:IPR001357);
+                     BEST Arabidopsis thaliana protein match is: breast cancer
+                     susceptibility1 (TAIR:AT4G21070.1); Has 6045 Blast hits to
+                     5706 proteins in 320 species: Archae - 0; Bacteria - 47;
+                     Metazoa - 4577; Fungi - 362; Plants - 542; Viruses - 11;
+                     Other Eukaryotes - 506 (source: NCBI BLink)."
+                     /codon_start=1
+                     /product="BRCT-associated RING-finger domain-containing
+                     protein"
+                     /protein_id="NP_973758.2"
+                     /db_xref="GI:145362227"
+                     /db_xref="GeneID:839329"
+                     /db_xref="TAIR:AT1G04020"
+                     /translation="MAEFTNMLMNPWVLHLQKLELELKCPLCLKLLNRPVLLPCDHVF
+                     CDSCVHKSSQVESGCPVCKSKHPKKGKRDLRFMESVISIYKSLNAAVSVHLPQLQIPN
+                     DCNYKNDALNNSNSPKHGESEDSEMTDKDVSKRSGGTDSSSRDGSPLPTSEESDPRPK
+                     HQDWTEKQLSDHLLLYEFESEYDAANHTPESYTEQAAKNVRDITASEQPSNAARKRIC
+                     GDSFIQESSPNPKTQDPTLLRLMESLRSDDPTDYVKAQNHQLPKSHTEQDSKRKRDIT
+                     ASDAMENHLKVPKRENNLMQKSADIDCNGKCSANSDDQLSEKISKALEQTSSNITICG
+                     FCQSARVSEATGEMLHYSRGRPVDGDDIFRSNVIHVHSACIEWAPQVYYEGDTVKNLK
+                     AELARGMKIKCTKCSLKGAALGCFVKSCRRSYHVPCAREISRCRWDYEDFLLLCPAHS
+                     SVKFPNEKSGHRVSRAEPLPKINPAELCSLEQTPAFTKELVLCGSALSKSDKKLMESL
+                     AVRFNATISRYWNPSVTHVIASTDEKGACTRTLKVLMGILNGKWIINAAWMKASLKAS
+                     QPVDEEPFEIQIDTQGCQDGPKTARLRAETNKPKLFEGLKFYFFGDFYKGYKEDLQNL
+                     VKVAGGTILNTEDELGAESSNNVNDQRSSSIVVYNIDPPHGCALGEEVTIIWQRANDA
+                     EALASQTGSRLVGHTWVLESIAGYKLHPVIG"
+     CDS             join(74..156,261..314,408..478,553..905,995..1210,
+                     1385..1639,1740..1840,1983..2169,2265..2362,2459..2549,
+                     2688..2853,2952..3070,3159..3509)
+                     /gene="BARD1"
+                     /locus_tag="AT1G04020"
+                     /gene_synonym="ATBARD1; breast cancer associated RING 1;
+                     F21M11.4; F21M11_4; ROW1"
+                     /inference="Similar to DNA
+                     sequence:INSD:EU817407.1,INSD:BX815982.1,INSD:BX814251.1"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:DR258186.1,INSD:DR256412.1,INSD:DR256422.1,
+                     INSD:DR256426.1,INSD:DR258193.1,INSD:DR258184.1,
+                     INSD:DR256389.1,INSD:DR256417.1,INSD:DR256400.1,
+                     INSD:DR256424.1,INSD:DR256463.1,INSD:DR256394.1,
+                     INSD:DR256427.1,INSD:DR256460.1,INSD:DR258162.1,
+                     INSD:DR256392.1,INSD:DR256377.1,INSD:DR258174.1,
+                     INSD:DR256458.1,INSD:DR256402.1,INSD:DR258195.1,
+                     INSD:DR256432.1,INSD:DR258194.1,INSD:DR258197.1,
+                     INSD:DR256410.1,INSD:DR256464.1,INSD:DR256455.1,
+                     INSD:DR256378.1,INSD:DR256393.1,INSD:DR256420.1,
+                     INSD:DR258189.1,INSD:DR256425.1,INSD:DR258188.1,
+                     INSD:DR256403.1,INSD:DR256428.1,INSD:DR256439.1,
+                     INSD:DR256434.1,INSD:DR256385.1,INSD:DR258163.1,
+                     INSD:DR256435.1,INSD:DR256375.1,INSD:DR256449.1,
+                     INSD:DR258196.1,INSD:DR256418.1,INSD:DR256454.1,
+                     INSD:DR256404.1,INSD:DR256433.1,INSD:DR256408.1,
+                     INSD:DR256376.1,INSD:DR258153.1,INSD:DR258159.1,
+                     INSD:DR256469.1,INSD:DR256452.1,INSD:DR258150.1,
+                     INSD:DR256447.1,INSD:DR258171.1,INSD:DR256401.1,
+                     INSD:DR256397.1,INSD:DR256407.1,INSD:DR256409.1,
+                     INSD:DR258182.1,INSD:DR256411.1,INSD:DR256468.1,
+                     INSD:DR256438.1,INSD:DR258181.1,INSD:DR256467.1,
+                     INSD:DR256462.1,INSD:BX834587.1,INSD:DR256446.1,
+                     INSD:DR256459.1,INSD:DR256444.1,INSD:DR256374.1,
+                     INSD:DR256465.1,INSD:DR256396.1,INSD:DR256430.1,
+                     INSD:DR256457.1,INSD:DR258161.1,INSD:DR256431.1,
+                     INSD:DR258169.1,INSD:DR256466.1,INSD:DR258157.1,
+                     INSD:DR256416.1,INSD:DR256379.1,INSD:DR256383.1,
+                     INSD:DR258180.1,INSD:DR258164.1,INSD:DR258156.1,
+                     INSD:DR258172.1,INSD:DR258160.1,INSD:DR256461.1,
+                     INSD:DR256441.1,INSD:DR258191.1,INSD:DR256388.1,
+                     INSD:DR256453.1,INSD:DR256443.1,INSD:DR258167.1,
+                     INSD:DR258165.1,INSD:ES014933.1,INSD:DR256386.1,
+                     INSD:DR258192.1,INSD:DR258175.1,INSD:EL188049.1,
+                     INSD:DR256395.1,INSD:DR256399.1,INSD:DR258185.1,
+                     INSD:DR256390.1,INSD:ES027100.1,INSD:DR256405.1,
+                     INSD:DR258176.1,INSD:DR256451.1,INSD:DR258149.1,
+                     INSD:DR258183.1,INSD:DR256421.1,INSD:DR258158.1,
+                     INSD:DR258178.1,INSD:DR256436.1,INSD:DR258190.1,
+                     INSD:DR256413.1,INSD:DR256450.1,INSD:DR256429.1,
+                     INSD:DR258152.1,INSD:DR258166.1,INSD:DR256380.1,
+                     INSD:DR258173.1,INSD:DR258179.1,INSD:DR258154.1,
+                     INSD:DR256445.1,INSD:DR256415.1,INSD:DR256448.1,
+                     INSD:DR256391.1,INSD:DR256437.1,INSD:ES072600.1,
+                     INSD:DR258177.1,INSD:DR258151.1,INSD:DR256406.1,
+                     INSD:DR256384.1,INSD:DR256387.1,INSD:DR256440.1,
+                     INSD:DR383085.1,INSD:DR258168.1,INSD:DR256456.1,
+                     INSD:DR256419.1,INSD:DR256381.1,INSD:DR256442.1,
+                     INSD:DR256414.1,INSD:DR258187.1,INSD:DR258155.1"
+                     /note="breast cancer associated RING 1 (BARD1); FUNCTIONS
+                     IN: transcription coactivator activity, DNA binding;
+                     INVOLVED IN: DNA repair, regulation of meristem structural
+                     organization, leaf development; LOCATED IN: intracellular;
+                     EXPRESSED IN: 21 plant structures; EXPRESSED DURING: 12
+                     growth stages; CONTAINS InterPro DOMAIN/s: Zinc finger,
+                     RING-type, conserved site (InterPro:IPR017907), Zinc
+                     finger, RING-type (InterPro:IPR001841), Zinc finger,
+                     PHD-type (InterPro:IPR001965), BRCT (InterPro:IPR001357);
+                     BEST Arabidopsis thaliana protein match is: breast cancer
+                     susceptibility1 (TAIR:AT4G21070.1); Has 5889 Blast hits to
+                     5527 proteins in 313 species: Archae - 0; Bacteria - 10;
+                     Metazoa - 4435; Fungi - 374; Plants - 570; Viruses - 11;
+                     Other Eukaryotes - 489 (source: NCBI BLink)."
+                     /codon_start=1
+                     /product="BRCT-associated RING-finger domain-containing
+                     protein"
+                     /protein_id="NP_171898.2"
+                     /db_xref="GI:42561677"
+                     /db_xref="GeneID:839329"
+                     /db_xref="TAIR:AT1G04020"
+                     /translation="MAEFTNMLMNPWVLHLQKLELELKCPLCLKLLNRPVLLPCDHVF
+                     CDSCVHKSSQVESGCPVCKSKHPKKARRDLRFMESVISIYKSLNAAVSVHLPQLQIPN
+                     DCNYKNDALNNSNSPKHGESEDSEMTDKDVSKRSGGTDSSSRDGSPLPTSEESDPRPK
+                     HQDWTEKQLSDHLLLYEFESEYDAANHTPESYTEQAAKNVRDITASEQPSNAARKRIC
+                     GDSFIQESSPNPKTQDPTLLRLMESLRSDDPTDYVKAQNHQQLPKSHTEQDSKRKRDI
+                     TASDAMENHLKVPKRENNLMQKSADIDCNGKCSANSDDQLSEKISKALEQTSSNITIC
+                     GFCQSARVSEATGEMLHYSRGRPVDGDDIFRSNVIHVHSACIEWAPQVYYEGDTVKNL
+                     KAELARGMKIKCTKCSLKGAALGCFVKSCRRSYHVPCAREISRCRWDYEDFLLLCPAH
+                     SSVKFPNEKSGHRVSRAEPLPKINPAELCSLEQTPAFTKELVLCGSALSKSDKKLMES
+                     LAVRFNATISRYWNPSVTHVIASTDEKGACTRTLKVLMGILNGKWIINAAWMKASLKA
+                     SQPVDEEPFEIQIDTQGCQDGPKTARLRAETNKPKLFEGLKFYFFGDFYKGYKEDLQN
+                     LVKVAGGTILNTEDELGAESSNNVNDQRSSSIVVYNIDPPHGCALGEEVTIIWQRAND
+                     AEALASQTGSRLVGHTWVLESIAGYKLHPVIG"
+ORIGIN      
+        1 gaagtgcatc ttctccttct cttctcggtt tcaagagctt tcgtcattta gatctgggtt
+       61 ttgtacatca ccaatggcgg aatttactaa catgctaatg aatccatggg ttcttcatct
+      121 ccagaagctc gagctcgagc tcaagtgccc tctatggttt gtttcaccca cagcttccct
+      181 ttccttgatt atattgtaga gtaatcgagt ttttgtttag tgttcttgga atcgtaacaa
+      241 gagatttacg taatttgcag cttaaaattg cttaatcgac cggtgttgct tccttgcgac
+      301 cacgtcttct gcgagtgaga ttatctaact actctgttat tctttaacaa ttcattacaa
+      361 atttgaattc atatagattc ttatctttct ggaaattatt tgtacagttc atgtgtacac
+      421 aaatcgtcgc aagttgaatc gggatgtcct gtctgcaaat ctaaacatcc caaaaagggt
+      481 aagtccagtg atatcatttg aagattagtg ttcaagacag tatgtgaaat tgtgaattac
+      541 tctcatgtgc agctaggaga gatcttcgat tcatggagag tgttataagc atatacaaga
+      601 gcttgaatgc agctgttagt gttcatctcc cacaattaca gattccaaat gattgcaact
+      661 acaagaacga tgcattgaac aattccaaca gccctaaaca tggcgaatct gaagattctg
+      721 agatgactga caaggatgtg agcaagcgca gtggtggtac tgattcttct agtcgtgatg
+      781 gttctcctct tccgacctca gaagaaagtg atccaagacc taagcatcag gattggactg
+      841 aaaagcagtt gagtgatcat ctcctattat atgagtttga atcagagtat gatgctgcca
+      901 atcacgtaag agcatattac tgatcatttt gatttatcag tgcgcaatat tgaaagatgt
+      961 ttataaattc ctcttttttt tcttcttgct gcagactccg gaaagttata cagaacaagc
+     1021 tgcaaaaaat gtgagggaca tcactgcttc tgagcagcct agcaatgctg caaggaagcg
+     1081 gatatgtggt gattccttta tccaggaaag cagtccgaat cctaagactc aggatccgac
+     1141 tttgctgcgg ttgatggaga gcctccggtc agatgatccc actgattatg ttaaagcaca
+     1201 gaaccatcag gtgcattctc gtcttacttc ataagttgac tattttagtt tatcagttat
+     1261 gagtattctt aatcacacat ttacatgtta atagatggtg tacttcagtt tttgggtaat
+     1321 ctatagtttt gttctgtgct tgagatcaaa caacttaaga tgtgtagtga tcttttgtgt
+     1381 ccagcagtta cccaaaagtc atacagaaca agattcaaaa aggaagcgtg acatcaccgc
+     1441 ttctgatgca atggaaaatc atctgaaggt ccccaagagg gagaataatc tgatgcaaaa
+     1501 atctgctgat attgactgca atggtaaatg ctctgcaaac tctgatgatc agctaagtga
+     1561 gaaaatctca aaggcattag aacaaacatc atccaacata accatttgtg gtttctgcca
+     1621 atccgctagg gtatctgagg taaaaccttt aaaagtcttt gccatatcct ctgctctaga
+     1681 aactgagctt ctctgtttgt gaagtatttt actcaactgg ctggatcaat atttgttagg
+     1741 ccactggaga aatgctgcat tactctaggg gaagaccggt ggatggagat gacatcttcc
+     1801 gctccaatgt tatccatgtc catagcgcat gtatcgaatg gtatagaaaa tgaaacccaa
+     1861 aaaacttcta catttgctca tctttgtttc tgcaagtcca tgtggatata gtttggctag
+     1921 tgttataacg cttttggctt ttgcatgata aaaatactaa aagtagttga ataaatgttc
+     1981 agggcaccgc aagtttacta tgaaggtgac acagtgaaga acctgaaagc agaactggca
+     2041 agggggatga aaatcaagtg cactaaatgt agtctgaaag gtgctgcctt aggctgcttt
+     2101 gtcaagtctt gccgtcgaag ctatcatgtt ccatgtgcaa gagagatttc tagatgccgt
+     2161 tgggattatg tatgttttgc cacattctct acattctcat tcacataaga gttacttacc
+     2221 aatgttctag ttataatgtg agattgtttt cttggtcttt acaggaagat tttcttctac
+     2281 tttgtccggc tcattcttct gtcaaattcc cgaacgagaa gtctggacat cgcgtttcca
+     2341 gagccgagcc cttaccaaaa atgtataatt ctgtttcagc atataattta atacttacag
+     2401 tatgacatta ttattcttat gatagcaact aataaatctc attaccttgc tccctcagaa
+     2461 atcctgctga gctatgttct ttggaacaaa caccagcttt tacaaaagag cttgttctct
+     2521 gtggatcagc actctctaaa agtgataagg tcagtactaa gttaatcttc tttccacaag
+     2581 gttcaaacaa gaaacaagtg tttgtggatt taccactctt ggttcaaagt tggtagagct
+     2641 ttttcatata aaaagactaa ttttctcatt gcattgctat tccctagaaa ctgatggaaa
+     2701 gtttagccgt tcgatttaac gcgaccatat caaggtactg gaacccaagt gttacacatg
+     2761 tgattgcttc tacagatgaa aaaggagctt gcacaagaac tttgaaggtt cttatgggta
+     2821 ttctcaatgg aaaatggatt atcaatgcag cttgtaagtt agattgctca ctcaagagtt
+     2881 tgtcataatc tttacttttc accattaagg aatcttcatc tttacatgaa tcaaccttga
+     2941 attgtttcta gggatgaaag caagcctaaa agcttctcaa cctgttgatg aagaaccatt
+     3001 cgagattcaa attgatactc aaggatgtca agatggacca aaaaccgcaa gactcagagc
+     3061 agaaactaat gtaagtataa aaacacacca aaaacaagtt tgaaagtgct ttgcttcttt
+     3121 tagatatctc actctctatt ttttcttttg gcaaacagaa accaaagctc tttgagggct
+     3181 tgaagttcta tttctttgga gatttctata aaggatacaa ggaagacctt cagaatctag
+     3241 tcaaagtcgc tggtggtaca atcttgaaca cagaggatga gcttggtgca gaaagcagca
+     3301 acaatgtcaa tgaccaaaga tcatcatcga ttgtggttta caacattgat cctccacatg
+     3361 gatgtgcctt aggtgaagaa gtcacaatca tttggcaacg agctaatgac gcagaagctt
+     3421 tagcaagcca aactgggtct cgtctcgttg gtcacacatg ggtcttggag tccattgctg
+     3481 gttacaagtt acatcctgtg attggctaat ttaagaggaa gagacaaaag acatttcaat
+     3541 ttccctacac atatgtaaca tagtttaatt ttactatttt tgatttcgta agataacaaa
+     3601 acagattcgt gtttgaacgc atataaaatt ccaactttta ctttcgaaaa acaaagcttt
+     3661 gtaacttaaa gtttggaaat cttaccga
+//
+
